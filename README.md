@@ -29,4 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Important
 Important:
 To test the callback need to run as
- ng serve --port 3001
+ git checkout the main branch, npm install, install CORs plugin in your browser
+ 
+ ng serve --port 3001 
